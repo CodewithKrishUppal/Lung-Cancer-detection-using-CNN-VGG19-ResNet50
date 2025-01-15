@@ -1,4 +1,4 @@
-# Lung Cancer detection using CNN VGG19 ResNet50
+# Lung Cancer detection using CNN VGG19 & ResNet50
 In this study, three deep learning models—ResNet, CNN, and VGG19—were compared for their
 performance in lung cancer classification. The models were evaluated based on their validation
 accuracy, with ResNet yielding the highest performance, followed by CNN and VGG19.
